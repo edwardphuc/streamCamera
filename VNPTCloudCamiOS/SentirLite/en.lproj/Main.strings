@@ -1,0 +1,105 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "2k1-Xl-z43"; */
+"2k1-Xl-z43.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = " Copyright@2017 Sentirlite.com"; ObjectID = "3BZ-hD-nMY"; */
+"3BZ-hD-nMY.text" = "Copyright @ 2017 Vigilance Cloud Video";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "77D-bt-0o9"; */
+"77D-bt-0o9.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "8VV-eh-F9j"; */
+"8VV-eh-F9j.title" = "Setting";
+
+/* Class = "UILabel"; text = "09:05:24"; ObjectID = "8zc-zF-LLX"; */
+"8zc-zF-LLX.text" = "09:05:24";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "Fa2-V1-tMo"; */
+"Fa2-V1-tMo.text" = "Setting";
+
+/* Class = "UIButton"; normalTitle = "Select Camera"; ObjectID = "GUS-XU-jLn"; */
+"GUS-XU-jLn.normalTitle" = "Select Camera";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "IFN-E2-tQm"; */
+"IFN-E2-tQm.text" = "00:00";
+
+/* Class = "UILabel"; text = "Storage"; ObjectID = "Lst-ue-w4g"; */
+"Lst-ue-w4g.text" = "Storage";
+
+/* Class = "UIBarButtonItem"; title = "Log out"; ObjectID = "Ty3-zF-r5E"; */
+"Ty3-zF-r5E.title" = "Log out";
+
+/* Class = "UILabel"; text = "5/12"; ObjectID = "Wal-pB-2Xo"; */
+"Wal-pB-2Xo.text" = "5/12";
+
+/* Class = "UILabel"; text = "09:10:24"; ObjectID = "Z4I-D6-87K"; */
+"Z4I-D6-87K.text" = "09:10:24";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "amS-t6-AdK"; */
+"amS-t6-AdK.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "c77-Qz-Ndt"; */
+"c77-Qz-Ndt.text" = "Status";
+
+/* Class = "UILabel"; text = "Live View"; ObjectID = "ceG-x5-mQh"; */
+"ceG-x5-mQh.text" = "Live View";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dxH-kS-Qsm"; */
+"dxH-kS-Qsm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "g7S-YB-v5T"; */
+"g7S-YB-v5T.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Layout"; ObjectID = "gfF-9C-XVY"; */
+"gfF-9C-XVY.text" = "Layout";
+
+/* Class = "UINavigationItem"; title = "More"; ObjectID = "hQD-aI-sRD"; */
+"hQD-aI-sRD.title" = "More";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hiL-kC-eNS"; */
+"hiL-kC-eNS.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "iGL-1A-rBy"; */
+"iGL-1A-rBy.title" = "Setting";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mOK-y4-7az"; */
+"mOK-y4-7az.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Log out"; ObjectID = "nC0-gz-ntV"; */
+"nC0-gz-ntV.title" = "Log out";
+
+/* Class = "UILabel"; text = "20/03/2017"; ObjectID = "oAF-4y-yvf"; */
+"oAF-4y-yvf.text" = "20/03/2017";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "pr6-zO-65H"; */
+"pr6-zO-65H.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "Storage"; ObjectID = "px0-0M-cTq"; */
+"px0-0M-cTq.title" = "Storage";
+
+/* Class = "UIButton"; normalTitle = "20/03/17"; ObjectID = "rUP-Wv-Y9M"; */
+"rUP-Wv-Y9M.normalTitle" = "20/03/17";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "t79-5K-qaU"; */
+"t79-5K-qaU.text" = "Setting";
+
+/* Class = "UILabel"; text = "Camera's NameCamera's NameCamera's Name"; ObjectID = "um7-P4-K36"; */
+"um7-P4-K36.text" = "Camera's NameCamera's NameCamera's Name";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "vAX-zO-UbT"; */
+"vAX-zO-UbT.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "wYW-Zq-erd"; */
+"wYW-Zq-erd.text" = "00:00";
+
+/* Class = "UITextField"; placeholder = "URL"; ObjectID = "wkE-Cn-hdP"; */
+"wkE-Cn-hdP.placeholder" = "URL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wqL-3u-r50"; */
+"wqL-3u-r50.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "URL"; ObjectID = "z3G-SE-ico"; */
+"z3G-SE-ico.placeholder" = "URL";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "zgQ-5c-6Ns"; */
+"zgQ-5c-6Ns.normalTitle" = "Previous";

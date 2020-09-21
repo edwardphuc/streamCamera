@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  SentirLite
+
+  Created by TuanNguyen on 8/14/17.
+  Copyright © 2017 Skylab. All rights reserved.
+*/
+
+//App name
+"app_name"                = "Vigilance Cloud Video";
+//Domail
+"new_domain"                = "Your new domain";
+
+//LoginVC
+
+"email"                     = "Email";
+"password"                  = "Password";
+"remember_me"               = "Remember me";
+"login"                     = "Login";
+"camera"                    = "Camera";
+"login_email_require"       = "This field is required";
+
+//log_out
+"log_out"                   = "Log Out";
+
+//LoginSettingVC
+"save"                      = "Save";
+
+//LiveViewVC
+"live_view"                 = "Live View";
+"storage"                   = "Storage";
+"setting"                   = "Setting";
+
+"layout"                    = "Layout";
+//LiveViewVC alert
+
+
+//Storage
+"start_date"                = "Start Date";
+"finish_date"               = "Finish Date";
+"save_date"                 = "Save Date";
+"select_camera"             = "Select Camera";
+
+//ARLERT
+    //No network [key "no_internet_connection"]
+    //When wrong Url [key "dialogErrorURL"]
+    //When online ,show err code on title , description use sever error
+// No internet connection
+"no_internet_connection"    = "No internet connection";
+
+// Alert wrong Url
+"dialogErrorURL"            = "Cannot connect server, please change URL !";
+
+//Video record not available
+"kVideoDidHaveAPromblem"    = "Video is not available";
+
+// video record is downloaded
+"video_downloaded"          = "Your video is downloaded";
+    //function download video can get data from api, alert will show title with error code and description with key "video_canot_downloaded"
+"video_canot_downloaded"    = "Your video can not download";
+
+// Network
+"network_unstable"          = "Netword Unstable";
+
+// Camera is not availabel [live view label]
+    //Some video link from api camera/record cannot play
+"camera_is_not_available"   = "Camera is not available";
+
+//Camera is starting    [ live view label ]
+"camera_is_starting"        = "Camera is starting";
+
+// Storage actionsheet
+"please_choose_feature"     = "Please choose feature";
+
+// play label [ storage ]
+"play"                      = "Playback";
+
+// Download [ storage ]
+"download_record"           = "Download record";
+
+//Cancel
+"cancel"                    = "Cancel";
+
+//Check network
+
+"network_conection"         = "Please check internet connection";
